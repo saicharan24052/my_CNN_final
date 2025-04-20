@@ -35,5 +35,7 @@ The index of the highest number among the 10 classes is the output (i.e., argmax
 
 # NOTE:
 
-The files in the 'xsim' folder(in github) should be copied to your Vivado simulation directory located at '/.sim.behave/xsim'. This '.sim' folder is automatically created after simulating the project for the first time.
+The files in the 'xsim' folder(in github) should be copied to your Vivado simulation directory located at '/.sim.behave/xsim'. This '.sim' folder is automatically created after simulating the project for the first time. 'xsim' folder(in github) contains the image files in text format.
+
+The 'necessary_files' folder contains MATLAB code for a replica of the CNN model, along with scripts that convert images into a text format compatible with the above design.
 
