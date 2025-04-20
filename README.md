@@ -33,3 +33,7 @@ The index of the highest number among the 10 classes is the output (i.e., argmax
 
 ![result](https://github.com/user-attachments/assets/0c20c073-df57-4b4e-bf5b-6428892a5e93)
 
+# NOTE:
+
+The files in the 'xsim' folder(in github) should be copied to your Vivado simulation directory located at '/.sim.behave/xsim'. This '.sim' folder is automatically created after simulating the project for the first time.
+
